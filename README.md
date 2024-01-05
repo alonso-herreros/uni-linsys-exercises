@@ -25,7 +25,7 @@ It is public for members of the UC3M google suite domain.
 
 | Chapter    | Total | Completed | Percentage |
 | ---------- | :---: | :-------: | :--------: |
-| Exercise 1 |  10   |     0     |    0 %     |
+| Exercise 1 |  10   |    10     |   100 %    |
 | Exercise 2 |  10   |     0     |    0 %     |
 | Exercise 3 |   9   |     0     |    0 %     |
 | Exercise 4 |  10   |     0     |    0 %     |
